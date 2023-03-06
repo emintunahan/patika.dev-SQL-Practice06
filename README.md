@@ -30,4 +30,4 @@ FROM FILM
 WHERE LENGTH > 150;
 
 ```
-patika.dev/emintunahan
+app.patika.dev/emintunahan
